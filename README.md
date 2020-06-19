@@ -1,6 +1,6 @@
 # Gluttonous-Snake-Written-in-Cpp
 rt，大一无聊的时候用c++写的贪吃蛇，那时候没接触面向对象，大二优化了一下，算是练练手的小程序。
-
+![压力不大](https://imgsa.baidu.com/forum/w%3D580/sign=74b13b6f05f41bd5da53e8fc61db81a0/2f00db43ad4bd1137a5f6b7651afa40f4afb057d.jpg)
 ## 遇到的课上不讲的东东
 * 通过调用句柄对控制台光标的位置、显隐等进行操作（用以解决屏闪问题）
 * 通过多线程实现非阻塞输入，做到按下按键立即相应
